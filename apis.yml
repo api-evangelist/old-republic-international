@@ -1,7 +1,12 @@
 aid: old-republic-international
-url: https://raw.githubusercontent.com/api-evangelist/old-republic-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/old-republic-international/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.old-republic-international.com
+description: >-
+  Old Republic International is one of the nation's largest publicly held insurance
+  organizations, providing general insurance, title insurance, and life and accident
+  insurance through its subsidiaries.
