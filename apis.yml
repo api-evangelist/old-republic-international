@@ -14,6 +14,8 @@ created: '2026-03-21'
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/old-republic-international-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/old-republic-international
   - type: Website
@@ -26,6 +28,8 @@ common:
     url: https://www.oldrepublic.com/careers
   - type: Contact
     url: https://www.oldrepublic.com/contact-us
+  - type: Blog
+    url: https://oldrepublic.com/blog
 description: >-
   Old Republic International is one of the nation's largest publicly held
   insurance organizations, providing general insurance, title insurance, and
