@@ -1,0 +1,18 @@
+{
+  "repo": "old-republic-international",
+  "feeds": [
+    {
+      "source": "https://oldrepublic.com/blog",
+      "feed_url": "https://oldrepublic.com/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.oldrepublic.com/contact-us",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 15
+}
