@@ -2,17 +2,17 @@
   "repo": "old-republic-international",
   "feeds": [
     {
-      "source": "https://oldrepublic.com/blog",
+      "source": "https://oldrepublic.com/blog/rss.xml",
       "feed_url": "https://oldrepublic.com/blog/rss.xml",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://www.oldrepublic.com/contact-us",
       "error": "HTTPError"
     }
   ],
-  "fetched": "2026-07-11T11:50:51Z",
-  "post_count": 15
+  "fetched": "2026-08-01T15:49:00Z",
+  "post_count": 18
 }
