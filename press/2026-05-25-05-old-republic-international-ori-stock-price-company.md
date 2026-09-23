@@ -1,7 +1,9 @@
 ---
 title: Old Republic International | ORI Stock Price, Company ...
 url: https://www.forbes.com/companies/old-republic-international/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Old Republic International" press release artificial intelligence'
 position: 5
 source: serpapi-google

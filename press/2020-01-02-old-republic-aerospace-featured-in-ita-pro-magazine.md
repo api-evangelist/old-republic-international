@@ -1,7 +1,9 @@
 ---
 title: Old Republic Aerospace Featured in ITA Pro Magazine
 url: https://oldrepublic.com/news/old-republic-aerospace-featured-in-ita-pro-magazine
-date: '2020-01-02'
+published: ''
+date_basis: harvested
+harvested: '2020-01-02'
 author: Old Republic Aerospace
 feed_url: http://www.oldrepublic.com/news/rss.xml
 ---

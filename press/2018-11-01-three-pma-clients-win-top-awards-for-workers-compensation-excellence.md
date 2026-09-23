@@ -1,7 +1,9 @@
 ---
 title: Three PMA Clients Win Top Awards for Workers' Compensation Excellence
 url: https://oldrepublic.com/news/three-pma-clients-win-top-awards-for-workers-compensation-excellence
-date: '2018-11-01'
+published: ''
+date_basis: harvested
+harvested: '2018-11-01'
 author: PMA Companies
 feed_url: http://www.oldrepublic.com/news/rss.xml
 ---

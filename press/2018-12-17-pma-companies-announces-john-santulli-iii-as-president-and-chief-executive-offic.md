@@ -2,7 +2,9 @@
 title: PMA Companies Announces John Santulli, III as President and Chief Executive
   Officer
 url: https://oldrepublic.com/news/pma-companies-announces-john-santulli-iii-as-president-and-chief-executive-officer
-date: '2018-12-17'
+published: ''
+date_basis: harvested
+harvested: '2018-12-17'
 author: PMA Companies
 feed_url: http://www.oldrepublic.com/news/rss.xml
 ---

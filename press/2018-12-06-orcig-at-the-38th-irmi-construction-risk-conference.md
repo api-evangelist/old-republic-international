@@ -1,7 +1,9 @@
 ---
 title: ORCIG at the 38th IRMI Construction Risk Conference
 url: https://oldrepublic.com/news/orcig-at-the-38th-irmi-construction-risk-conference
-date: '2018-12-06'
+published: ''
+date_basis: harvested
+harvested: '2018-12-06'
 author: Old Republic Contractors Insurance Group
 feed_url: http://www.oldrepublic.com/news/rss.xml
 ---

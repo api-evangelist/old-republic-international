@@ -1,7 +1,9 @@
 ---
 title: PMA Companies Names Cindy Slubowski as Casualty Product Leader
 url: https://oldrepublic.com/news/pma-companies-names-cindy-slubowski-as-casualty-product-leader
-date: '2019-04-30'
+published: ''
+date_basis: harvested
+harvested: '2019-04-30'
 author: PMA Companies
 feed_url: http://www.oldrepublic.com/news/rss.xml
 ---

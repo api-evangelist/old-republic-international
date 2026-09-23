@@ -1,7 +1,9 @@
 ---
 title: Old Republic Appoints New Chief Operating Officer to Home Protection Business
 url: https://oldrepublic.com/news/old-republic-appoints-new-chief-operating-officer-to-home-protection-business
-date: '2019-11-14'
+published: ''
+date_basis: harvested
+harvested: '2019-11-14'
 author: Old Republic International Corporation
 feed_url: http://www.oldrepublic.com/news/rss.xml
 ---

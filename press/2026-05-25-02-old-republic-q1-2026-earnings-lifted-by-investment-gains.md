@@ -1,7 +1,9 @@
 ---
 title: Old Republic Q1 2026 earnings lifted by investment gains
 url: https://www.stocktitan.net/sec-filings/ORI/8-k-old-republic-international-corp-reports-material-event-f8ebdd0954e2.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Old Republic International" press release artificial intelligence'
 position: 2
 source: serpapi-google
